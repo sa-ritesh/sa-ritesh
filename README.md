@@ -1,3 +1,4 @@
+<div style="background-color: blue">
 <h1 align="center">Hi 👋, I'm Ritesh Arora</h1>
 <h3 align="center">I am currently a 3rd year IT undergraduate student at Maharaja Agrasen Institute of Technology</h3>
 
@@ -24,3 +25,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa-ritesh&show_icons=true&locale=en" alt="sa-ritesh" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-ritesh&" alt="sa-ritesh" /></p>
+
+</div>
