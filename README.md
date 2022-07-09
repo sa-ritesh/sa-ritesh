@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nothing.**
 
-- ⚡ Fun fact **My code works in Night but stops working in Morning.**
+- ⚡ Fun fact **typeof(NaN) is number**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
