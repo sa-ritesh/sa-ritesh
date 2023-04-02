@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh Arora</h1>
 <h3 align="center">I am currently a 3rd year IT undergraduate student at Maharaja Agrasen Institute of Technology</h3>
 
-- 🔭 I’m currently working as **SDE Intern at Shiprocket**
+- 🔭 I’m currently working as a **SDE @Indus Valley Partners**
 
-- 👯Previously worked as a Teaching Assistant at **Coding Ninjas**
+- 👯Previously worked as an **SDE Intern at Shiprocket*, *Teaching Assistant at **Coding Ninjas**
 
 - 💬 Ask me about **Nothing.**
 
