@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **SDE @Indus Valley Partners**
 
-- 👯Previously worked as an **SDE Intern at Shiprocket*, *Teaching Assistant at **Coding Ninjas**
+- 👯Previously worked as  *SDE Intern at Shiprocket, Teaching Assistant at **Coding Ninjas**
 
 - 💬 Ask me about **Nothing.**
 
